@@ -13,6 +13,10 @@ June 2019 – Present
 
 Software development work in areas of Data Engineering, Data Analytics, and Event correlations across silos to build best-in-class business analytics software.
 
+Team Splunk Boulder setting fastest escape time record at Enigma Escape Rooms.
+
+![Team Splunk @ Enigma Escape Room](img/shotinos.jpg)
+
 Systems Perfomance and Analysis Intern
 RoboCop.io, India
 
