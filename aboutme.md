@@ -2,7 +2,7 @@
 layout: page
 title: About Keval D. Shah
 meta-title: About me
-subtitle: "For a start, my favourite quote is, <br> Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form... - This comes from Silvers Rayleigh, a characted in the popular anime - One Piece"
+subtitle: "For a start, my favourite quote is: <br> Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form... - This comes from Silvers Rayleigh, a characted in the popular anime - One Piece"
 ---
 
 <div id="aboutme-section">
