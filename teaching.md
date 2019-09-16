@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Teaching
-meta-title: Vidyādān: In Hinduism, teaching is the greatest service
+meta-title: Teaching Activities
+subtitle: Vidyādān: In Hinduism, teaching is the greatest service
 ---
 
 
