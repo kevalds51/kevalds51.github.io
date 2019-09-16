@@ -27,6 +27,8 @@ description: Let me introduce you to my geek side!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Teaching: "teaching"
+  Work: "industry"
   Publications:
     - Publications List: "publicationslist"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=6FF0rAEAAAAJ&hl=en&authuser=2"
