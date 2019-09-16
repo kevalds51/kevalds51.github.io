@@ -5,6 +5,7 @@ meta-title: Teaching Activities
 subtitle: Vidyādān: In Hinduism, teaching is the greatest service
 ---
 
+![Engineering @ CU - Boulder](img/cu_eng.png)
 
 Lead Teaching Assistant
 CS @ University of Colorado at Boulder
