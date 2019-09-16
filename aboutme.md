@@ -44,8 +44,11 @@ Let’s connect if you want to collab and create something awesome in the world 
 </center>
 <br>
 
-Oh, and one more thing, if you are wondering about the meaning of my name, well...
+Oh, and one more thing, if you are wondering about the pronunciation and meaning of my name, well...
 <br><br>
-<center><img src="/img/anudit-meaning.png"></center>
+<center><h3>Well! It literally means 'only', interesting, right? But people also use for 'unique' or 'pure'.</h3><center>
+<center>Keval can be pronounced (approx) KIYVAHL †
+
+† approx English pronunciation guide:
+K as in "key (K.IY)" ; IY as in "eat (IY.T)" ; V as in "vow (V.AW)" ; AH as in "mud (M.AH.D)" ; L as in "lay (L.EY)" ;</center>
 <br>
-<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
