@@ -31,13 +31,13 @@ navbar-links:
     - Publications List: "publicationslist"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=6FF0rAEAAAAJ&hl=en&authuser=2"
     - ResearchGate Profile: "https://www.researchgate.net/profile/Keval_Shah10"
-  Projects:
-    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-    - Contract Reader Tool (EY Hackathon): "https://www.rlcf.ey.com/in/en/newsroom/news-releases/news-ey-annouces-winners-of-the-intelligent-automation-hackathon"
-    - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
-    - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
-    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
+#   Projects:
+#     - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
+#     - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
+#     - Contract Reader Tool (EY Hackathon): "https://www.rlcf.ey.com/in/en/newsroom/news-releases/news-ey-annouces-winners-of-the-intelligent-automation-hackathon"
+#     - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
+#     - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
+#     - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   Resume: "resume/cv_Keval_Shah.pdf"
 #  Tags: "tags"
 
