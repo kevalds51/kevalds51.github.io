@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Working in the Tech Industry
-meta-title: A Beautiful Chaos
+meta-title: My adventure in the Tech Industry
+subtitle: "A Beautiful Chaos"
 ---
 
 
