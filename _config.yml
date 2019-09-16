@@ -28,7 +28,7 @@ description: Let me introduce you to my geek side!
 navbar-links:
   About Me: "aboutme"
   Publications:
-    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
+    - Publications List: "publicationslist"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=6FF0rAEAAAAJ&hl=en&authuser=2"
     - ResearchGate Profile: "https://www.researchgate.net/profile/Keval_Shah10"
   Projects:
