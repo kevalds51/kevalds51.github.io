@@ -4,6 +4,17 @@ title: Achievements
 meta-title: Achievements
 ---
 
+• Splunk Spot Bonus 2022 and 2023
+
+Received a spot bonus for before-time end-to-end delivery of a complex time senstive project. Received another spot bonus for significantly reducing down-time of an outage affecting all customers by finding the root-cause in the middle of the night.
+
+• Outstanding Teaching Assistant & Outstanding Service Award
+
+Date: May 2020
+Issuer: Department of Computer Science at the University of Colorado
+
+Received two (<a target="_blank" href="https://www.colorado.edu/cs/news-events/student-awards">student awards</a>) from the department, one as a top performing TA based on direct student feedback, and the other for leading the TA cohort of the department and on-boarding new Masters and PhD students.
+
 • Splunk Scholarship for Interns
 
 Date: Jul 2019

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-meta-title: Teaching Activities
+meta-title: Teaching Activities from my Graduate Student days!
 subtitle: In Hinduism, teaching is the greatest service (Vidyādān)
 ---
 

@@ -1,27 +1,14 @@
 ---
 layout: page
 title: Working in the Tech Industry
-meta-title: My adventure in the Tech Industry
+meta-title: My adventures in the the fast-paced unreal world of tech!
 subtitle: "A Beautiful Chaos"
 ---
 
+I've been at Splunk since 2019, right after I graduated out of grad school! I've climed two steps on the corporate ladder so far: intern -> entry-level -> mid-level
 
-Software Engineer Intern
-Splunk Inc, Boulder, CO
+Across my time at Splunk - I've worked 4 scrum teams and have contributed directly to 3 different products: VictorOps (now Splunk on-call), Infrastructure Monitoring and Incident-Intelligence of the Observability Suite
 
-June 2019 – Present
+I've had the opportunity to work with a super diverse work-force, using a colorful palette of languages and tools and on the most mythical to magical infrastruture plaforms.
 
-Software development work in areas of Data Engineering, Data Analytics, and Event correlations across silos to build best-in-class business analytics software.
-
-Team Splunk Boulder setting fastest escape time record at Enigma Escape Rooms.
-
-![Team Splunk @ Enigma Escape Room](img/shotinos.jpg)
-
-Systems Perfomance and Analysis Intern
-RoboCop.io, India
-
-May 2016 – July 2016
-
-• Create plugins in Python for system monitoring tools such as collectd, Bosun.
-• Synchronize security checks with CVE and NVD databases to set up alerts and checks for registered system vulnerabilities.
-• Extensive use of python and corresponding libraries to implement the above mentioned.
+Check out my resume or reach out if you want to know more!

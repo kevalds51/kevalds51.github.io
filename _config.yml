@@ -27,19 +27,12 @@ description: Let me introduce you to my geek side!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Teaching: "teaching"
   Work: "industry"
+  Teaching: "teaching"
   Publications:
     - Publications List: "publicationslist"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=6FF0rAEAAAAJ&hl=en&authuser=2"
     - ResearchGate Profile: "https://www.researchgate.net/profile/Keval_Shah10"
-#   Projects:
-#     - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-#     - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-#     - Contract Reader Tool (EY Hackathon): "https://www.rlcf.ey.com/in/en/newsroom/news-releases/news-ey-annouces-winners-of-the-intelligent-automation-hackathon"
-#     - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
-#     - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
-#     - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   Honors: "achievements"
   Resume: "resume/cv_Keval_Shah.pdf"
 #  Tags: "tags"
@@ -70,22 +63,12 @@ avatar: "/img/av.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Keval D. Shah
-# email: "youremail@domain.com"
   email: kevalds51@gmail.com
   facebook: thats.me.kev
   github: kevalds51
   twitter: thtsme_kev
   instagram: keval.ds
   linkedin: kevalds51
-# reddit: yourname
-# xing: yourname
-# stackoverflow: yourlink  # eg. "3943160/daattali"
-# snapchat: yourname
-# youtube: yourlink   # eg. user/daattali or channel/daattali
-# spotify: yourname
-# steam: yourname
-# twitch: yourname
-# yelp: yourname
 
 # Select which links to show in the footer
 footer-links-active:
